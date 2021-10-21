@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jim Liberi</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 🔭 I’m currently working on [Family Promise App](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
+- 🔭 I’m currently working on [Family Promise App with Lambda School](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
 
 - 👯 I’m looking to collaborate on [Website Development for Businesses](https://ptsupport.com)
 

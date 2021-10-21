@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/)
 
-- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl MySQL WordPress WooCommerce**
+- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl Forms MySQL WordPress WooCommerce**
 
 - 📫 How to reach me **liberi@ptsupport.com**
 

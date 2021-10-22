@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing](https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing)
 
-- ⚡ Fun fact **I like crypto a lot and play golf.**
+- ⚡ Fun fact **I like crypto a lot and played golf in college.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

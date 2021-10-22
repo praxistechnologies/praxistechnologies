@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Website Development for Businesses](https://ptsupport.com)
 
-- 🤝 I’m looking for help with [Attorney Stars](https://attorneystars.com/)
+- 🤝 I’m looking for help with [Attorney Stars](https://attorneystars.com/) and also learning more about Redux, Node, Python and Web3
 
 - 👨‍💻 All of my projects are available at [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/)
 

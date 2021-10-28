@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jim Liberi</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 🔭 Latest project is working with [Family Promise App](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
+- 🔭 Latest project is working with [Family Promise App](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a).
 
-- 👯 I’m looking to collaborate on [Website Development for Businesses](https://ptsupport.com)
+- 👯 I’m looking to collaborate on [Website Development for Businesses](https://ptsupport.com).
 
 - 🤝 I’m looking for help with learning more about Redux, Node, Python and Web3 along with expanding a personal project, [Attorney Stars](https://attorneystars.com/).
 
-- 👨‍💻 All of my portfolio projects are available at [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/)
+- 👨‍💻 All of my portfolio projects are available at [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/).
 
-- 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/)
+- 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
-- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl Forms MySQL WordPress WooCommerce and Cryptocurrency**
+- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl Forms MySQL WordPress WooCommerce and Cryptocurrency**.
 
 - 📫 How to reach me **ptanalytics@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing](https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing](https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing).
 
-- ⚡ Fun fact **I like crypto a lot and played golf in college.**
+- ⚡ Fun fact **I played golf in college.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

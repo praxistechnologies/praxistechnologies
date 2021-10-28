@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jim Liberi</h1>
+<h1 align="center">Hi, I'm Jim Liberi 👋</h1>
 <h3 align="center">Front End Developer</h3>
 
 - 🔭 Latest project is working with [Family Promise App](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a).
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
-- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl Forms MySQL WordPress WooCommerce and Cryptocurrency**.
+- 💬 Ask me about **HTML5 CSS3 JavaScript React ReactMap.gl Forms MySQL WordPress WooCommerce and Cryptocurrency (3, 3) (🎩, 🎩)**.
 
 - 📫 How to reach me **ptanalytics@gmail.com**
 

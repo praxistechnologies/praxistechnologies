@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML5, CSS3 JavaScript, React, React-Map-GL, MySQL WordPress, WooCommerce, & Cryptocurrency (3, 3) (🎩, 🎩)**.
 
-- 📫 How to reach me **ptanalytics@gmail.com**
+- 📫 How to reach me **ptanalytics@gmail.com**.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing](https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing).
 

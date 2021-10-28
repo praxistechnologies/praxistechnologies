@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
-- 💬 Ask me about **HTML5, CSS3 JavaScript, React, React-Map-GL, MySQL WordPress, WooCommerce, & Cryptocurrency (3, 3) (🎩, 🎩)**.
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, React-Map-GL, MySQL WordPress, WooCommerce, & Cryptocurrency (3, 3) (🎩, 🎩)**.
 
 - 📫 How to reach me **ptanalytics@gmail.com**.
 

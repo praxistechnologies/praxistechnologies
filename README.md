@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 👯 I’m looking to collaborate with a Partner for my Marketing Agency [Website Development for Businesses](https://ptsupport.com).
+- 👯 I’m looking to collaborate with a Partner for my Marketing Agency [Praxis Technologies](https://ptsupport.com).
 
 - 🤝 Newest Personal Project is [Attorney Stars](https://attorneystars.com/).
 

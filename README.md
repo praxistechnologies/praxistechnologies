@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/).
 
-- 📝 I currently work in Organic SEO. You can read some of my articles [https://ptsupport.com/news/](https://ptsupport.com/news/).
+- 📝 I work in Organic SEO. You can read some of my articles [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
 - 💬 Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own idea for a few crypto projects.
 

@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jim-liberi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-liberi" height="30" width="40" />Linkedin</a>
+<a href="https://linkedin.com/in/jim-liberi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-liberi" height="30" width="40" />LinkedIn</a>
   <a href="https://twitter.com/Praxis__Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ptsupportllc" height="30" width="40" />Praxis Technologies</a>
  <a href="https://twitter.com/333_am_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="333am" height="30" width="40" />NFT Crypto Twitter</a>
 </p>

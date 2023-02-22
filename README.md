@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Jim Liberi</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center">Palm Beach, Florida</h3>
+<h5 align="center">Palm Beach, Florida</h5>
+
 
 - 👯 I’m looking to collaborate with a Partner for my Marketing Agency [Praxis Technologies](https://ptsupport.com).
 

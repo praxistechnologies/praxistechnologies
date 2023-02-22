@@ -1,23 +1,20 @@
 <h1 align="center">Hi, I'm Jim Liberi 👋</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 Latest project is working with [Family Promise App](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a).
 
-- 👯 I’m looking to collaborate on [Website Development for Businesses](https://ptsupport.com).
+- 👯 I’m looking to collaborate with a Partner for my Marketing Agency [Website Development for Businesses](https://ptsupport.com).
 
-- 🤝 I’m looking for help with learning more about Redux, Node, Python and Web3 along with expanding a personal project, [Attorney Stars](https://attorneystars.com/).
+- 🤝 Newest Personal Project is [Attorney Stars](https://attorneystars.com/).
 
-- 👨‍💻 All of my portfolio projects are available at [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/).
+- 👨‍💻 Portfolio [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/).
 
-- 📝 I regularly write articles on [https://ptsupport.com/news/](https://ptsupport.com/news/).
+- 📝 I currently work in Organic SEO. You can read some of my articles [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, React-Map-GL, MySQL WordPress, WooCommerce, & Cryptocurrency (3, 3) (🎩, 🎩)**.
+- 💬 Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own idea for a few crypto projects.
 
-- 📫 How to reach me **ptanalytics@gmail.com**.
+- 📫 How to reach me: [https://ptsupport.com/contact/](https://ptsupport.com/contact/).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing](https://drive.google.com/file/d/1HaK5Jrgt0WY7O1Kex9TA8qy9m6LIhdX6/view?usp=sharing).
-
-- ⚡ Fun fact **I played golf in college.**
+- ⚡ Fun facts: I played golf in college - have 2 dogs - sleep little
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

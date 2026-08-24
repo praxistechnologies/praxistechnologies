@@ -1,15 +1,6 @@
 <h1 align="center">Hey, I'm Jim Liberi</h1>
 <h3 align="center">Full Stack Developer | Organic SEO Specialist</h3>
-<h5 align="center">Palm Beach, Florida</h5>
 
-
-- I’m looking to collaborate with a Partner for my Marketing Agency [Praxis Technologies](https://ptsupport.com).
-
-- Newest Personal Project is [Attorney Stars](https://attorneystars.com/).
-
-- Portfolio [https://ptsupport.com/portfolio/](https://ptsupport.com/portfolio/).
-
-- I work in Organic SEO for an Agency out of California. You can read some of my articles [https://ptsupport.com/news/](https://ptsupport.com/news/).
 
 - Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own idea for a few crypto projects.
 

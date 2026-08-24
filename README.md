@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Organic SEO Specialist</h3>
 
 
-- Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own idea for a few crypto projects.
+- Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own ideas for a few crypto projects.
 
 - How to reach me: [https://ptsupport.com/contact/](https://ptsupport.com/contact/).
 

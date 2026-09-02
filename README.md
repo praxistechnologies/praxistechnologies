@@ -1,12 +1,10 @@
-<h1 align="center">Hey, I'm Jim Liberi</h1>
-<h3 align="center">Full Stack Developer | Organic SEO Specialist</h3>
+<h1 align="center">Praxis Technologies</h1>
+<h3 align="center">Digital Marketing and Branding Agency</h3>
+
+- Visit: [https://ptsupport.com/](https://ptsupport.com/).
+- How to reach us: [https://ptsupport.com/contact/](https://ptsupport.com/contact/).
 
 
-- Ask me about: React, WordPress, WooCommerce, Cryptocurrency, Crypto Mining, NFTs and my own ideas for a few crypto projects.
-
-- How to reach me: [https://ptsupport.com/contact/](https://ptsupport.com/contact/).
-
-- ⚡ Fun facts: I played golf in college - have 2 dogs - sleep little
 
 
 <h3 align="left">Languages and Tools:</h3>
